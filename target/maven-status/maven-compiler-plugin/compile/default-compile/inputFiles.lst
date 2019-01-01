@@ -1,0 +1,10 @@
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/command/out/CLIOutputFormatter.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/command/MovieRatingCommand.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/command/Command.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/rest/model/ErrorType.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/command/processor/CommandProcessor.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/rest/model/MovieRatingResponse.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/app/CLIMain.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/exception/OMDBInvalidInputException.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/exception/OMDBHttpException.java
+/Users/sagirija/Documents/workspace-sts-3.9.2.RELEASE3/movierating/src/main/java/com/omdb/rest/client/OMDBRestClient.java
